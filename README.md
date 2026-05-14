@@ -1,16 +1,115 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kamalika M</h1>
 
-<!--
-**Kamalika506/Kamalika506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Information Technology Student
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 CSE Undergraduate from India
+- 💡 Interested in:
+  - Backend Engineering
+  - AI/ML
+  - Performance Optimization
+- 🌱 Learning:
+  - Java full stack
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 MathMend — Neuro-Symbolic Math Solver
+
+AI-powered mathematical reasoning system combining
+RAG pipelines and neuro-symbolic validation for
+accurate problem solving and personalized learning.
+
+- Achieved 85%+ accuracy on GSM8K benchmark
+- Built hybrid reasoning + retrieval architecture
+- Implemented real-time reasoning validation
+
+### 🔹 FocusMate — AI Productivity App
+
+AI-powered study assistant integrating YouTube-based
+learning sessions with real-time attention and
+distraction detection.
+
+- Built with Flutter + TensorFlow
+- Implemented facial landmark analysis
+- Used CNN + LSTM based attention detection
+- Offline local storage with Hive
+  
+### 🔹 Sleep Disorder Prediction System
+
+Machine learning-based healthcare prediction platform
+for identifying Insomnia and Sleep Apnea using
+ensemble learning techniques.
+
+- Implemented Random Forest & SVM models
+- Built FastAPI backend
+- Streamlit visualization dashboard
+- SQLite integration for lightweight storage
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Kamalika506&show_icons=true&theme=tokyonight"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalika506&layout=compact&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/kamalika-m-6216172a5/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kamalikam506@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Building systems, not just projects.
+</p>
