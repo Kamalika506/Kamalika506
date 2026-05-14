@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kamalika M</h1>
 
 <h3 align="center">
-Information Technology Student
+Information Technology Student | Interested in AI
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 CSE Undergraduate from India
+- 🎓 IT Undergraduate from SSNCE
 - 💡 Interested in:
-  - Backend Engineering
   - AI/ML
+  - LLMs
+  - Backend Systems
   - Performance Optimization
 - 🌱 Learning:
   - Java full stack
@@ -26,6 +27,8 @@ Information Technology Student
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
@@ -37,6 +40,10 @@ Information Technology Student
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 
 </p>
 
@@ -75,22 +82,6 @@ ensemble learning techniques.
 - Built FastAPI backend
 - Streamlit visualization dashboard
 - SQLite integration for lightweight storage
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Kamalika506&show_icons=true&theme=tokyonight"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalika506&layout=compact&theme=tokyonight"
-/>
-
-</p>
 
 ---
 
