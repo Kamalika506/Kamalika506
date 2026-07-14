@@ -13,9 +13,6 @@ Information Technology Student | Interested in AI
   - AI/ML
   - LLMs
   - Backend Systems
-  - Performance Optimization
-- 🌱 Learning:
-  - Java full stack
 
 ---
 
